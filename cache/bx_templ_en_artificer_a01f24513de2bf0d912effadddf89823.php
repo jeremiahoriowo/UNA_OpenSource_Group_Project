@@ -1,0 +1,1 @@
+<button <?php echo $a['attrs'];?>><?php echo $a['value'];?></button>

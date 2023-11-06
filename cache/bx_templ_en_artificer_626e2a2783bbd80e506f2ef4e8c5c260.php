@@ -1,0 +1,1 @@
+<div <?php echo $a['attrs'];?>><?php echo $a['content'];?></div>

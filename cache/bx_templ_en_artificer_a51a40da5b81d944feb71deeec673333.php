@@ -1,0 +1,1 @@
+<div id="<?php echo $a['html_id'];?>" class="<?php echo $a['class'];?> bx-def-box bx-def-box-round-corners bx-def-color-bg-box relative w-full mt-2 p-4 box-border"<bx_if:show_hidden> style="display:none"</bx_if:show_hidden>><?php echo $a['content'];?></div>

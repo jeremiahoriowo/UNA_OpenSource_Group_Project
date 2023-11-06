@@ -1,0 +1,1 @@
+<div class="bx-page-block-container<?php echo $a['class_add'];?> " <?php if($a['bx_if:show_html_id']['condition']){ ?>id="<?php echo $a['bx_if:show_html_id']['content']['html_id'];?>"<?php } ?>><?php echo $a['content'];?></div>

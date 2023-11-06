@@ -1,0 +1,1 @@
+<div class="bx-std-block-panel-top"><?php echo $a['content'];?></div>

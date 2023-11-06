@@ -1,0 +1,1 @@
+<div class="bx-form-input-translation<?php echo $a['class'];?>" <?php echo $a['attrs'];?>><?php echo $a['content'];?></div>
